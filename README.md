@@ -59,7 +59,7 @@ This repository also includes several classic algorithms implemented for various
 To get started, follow these steps:
 
 Clone the repository:
-`git clone https://github.com/maahin2005/DSAMasaiSheet.git`
+`git clone https://github.com/maahin2005/MASAI_DSA_SHEET`
 
 ## 🤝 Contributing 🤝
 
